@@ -1,12 +1,26 @@
 # 💫 About Me:
-Front End Developer|<br><br>Student.
+
+Front End Developer | Computer Science Student
+
+Passionate about building impactful digital experiences and continuously improving through code, discipline, and consistency.
 
 - 🔭 Building projects one commit at a time
-- 🌱 Learning AI, cybersecurity, and scalable systems
+  
+- 🌱 Currently learning AI, cybersecurity, and scalable systems
 - 👯 Open to collaborating on meaningful tech projects
+- 💡 Interested in software engineering, automation, and digital innovation
 - 💬 Ask me about Arch Linux, coding, gym discipline, or crypto
-- 📫 Reach me at: koechibrahim98@gmail.com
-- ⚡ Fun fact: I rarely miss gym sessions😄
+- ⚡ Strong believer in consistency over motivation
+- 🧠 Always curious about how systems work behind the scenes
+- 🎯 Goal: Become a world-class software engineer
+- 🏋️ Fun fact: I rarely miss gym sessions 😄
+
+
+## 📈 Current Focus:
+- Building real-world projects
+- Strengthening backend skills
+- Exploring AI and machine learning
+- Improving problem-solving and system design
 
 
 ## 🌐 Socials:
