@@ -1,6 +1,13 @@
 # 💫 About Me:
 Front End Developer|<br><br>Student.
 
+- 🔭 Building projects one commit at a time
+- 🌱 Learning AI, cybersecurity, and scalable systems
+- 👯 Open to collaborating on meaningful tech projects
+- 💬 Ask me about Arch Linux, coding, gym discipline, or crypto
+- 📫 Reach me at: koechibrahim98@gmail.com
+- ⚡ Fun fact: I rarely miss gym sessions😄
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/memberzany) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/memberzany) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/memberzany) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@memberzany) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/memberzany) 
@@ -28,7 +35,15 @@ Front End Developer|<br><br>Student.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- - 🔭 Building projects one commit at a time
+- 🌱 Learning AI, cybersecurity, and scalable systems
+- 👯 Open to collaborating on meaningful tech projects
+- 💬 Ask me about Arch Linux, coding, gym discipline, or crypto
+- 📫 Reach me at: koechibrahim98@gmail.com
+- ⚡ Fun fact: I rarely miss gym sessions
+
+
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
