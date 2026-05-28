@@ -12,7 +12,7 @@ Passionate about building impactful digital experiences and continuously improvi
 - 💬 Ask me about Arch Linux, coding, gym discipline, or crypto
 - ⚡ Strong believer in consistency over motivation
 - 🧠 Always curious about how systems work behind the scenes
-- 🎯 Goal: Become a world-class software engineer
+- 🎯 Goal: Become a world-class software engineer.
 - 🏋️ Fun fact: I rarely miss gym sessions 😄
 
 
