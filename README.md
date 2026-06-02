@@ -17,10 +17,10 @@ Passionate about building impactful digital experiences and continuously improvi
 
 
 ## 📈 Current Focus:
-- Building real-world projects
-- Strengthening backend skills
-- Exploring AI and machine learning
-- Improving problem-solving and system design
+- Building real-world projects.
+- Strengthening backend skills.
+- Exploring AI and machine learning.
+- Improving problem-solving and system design.
 
 
 
