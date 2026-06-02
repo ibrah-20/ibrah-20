@@ -42,7 +42,17 @@ Passionate about building impactful digital experiences and continuously improvi
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ibrah-20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
+<div align="center">
+
+### 🚀 Building Today for a Better Tomorrow
+
+Always learning, always growing, always coding.
+
+⭐ If you like my projects, consider giving them a star!
+
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=ibrah-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
