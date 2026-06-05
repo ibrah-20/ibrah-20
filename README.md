@@ -31,7 +31,7 @@ Passionate about building impactful digital experiences and continuously improvi
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white[...]
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ibrah-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrah-20&theme=dark)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrah-20&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrah-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
